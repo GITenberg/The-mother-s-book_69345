@@ -1,0 +1,26 @@
+_repo: The-mother-s-book_69345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Child, Lydia Marie
+    gutenberg_agent_id: '55220'
+    url: http://www.gutenberg.org/2009/agents/55220
+description: ''
+gutenberg_issued: '2022-11-14'
+identifiers:
+  gutenberg: '69345'
+language: en
+pgterms:marc904: https://archive.org/details/mothersbook1844chil/
+pgterms:marc905: 20220617181846child
+pgterms:marc906: '1846'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: C. S. Francis & Co.,1846.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The mother's book
+url: http://www.gutenberg.org/ebooks/69345
