@@ -1,11 +1,16 @@
 _repo: The-mother-s-book_69345
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69345-h/images/cover.jpg
 creator:
   author:
     agent_name: Child, Lydia Marie
     gutenberg_agent_id: '55220'
     url: http://www.gutenberg.org/2009/agents/55220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69345#The-mother-s-book
 gutenberg_issued: '2022-11-14'
 identifiers:
   gutenberg: '69345'
